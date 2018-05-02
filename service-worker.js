@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.1.0/workbox-sw.js");
 
 importScripts(
-  "/painting/build/precache-manifest.ac21a34c0c6d678cceec19ec56369427.js"
+  "/build/precache-manifest.d776a69b9c0bed8232d16e36d934785d.js"
 );
 
 /**
@@ -25,79 +25,75 @@ importScripts(
 self.__precacheManifest = [
   {
     "url": "2018/01/27/sammy-on-canvas.html",
-    "revision": "e9192c92954f542b866eede2f04c4e5e"
+    "revision": "6f021ccd396d1984935cd3e7c3c87eb2"
   },
   {
     "url": "2018/03/04/het-was-weer-eens-tijd.html",
-    "revision": "128290a579d3ff317daf5a361ab7a6e2"
+    "revision": "2313458a6d77431797db9e3dd0a9161e"
   },
   {
     "url": "2018/03/10/already-did-my-cat.html",
-    "revision": "c7796e4dff2ab84f1aa3cdfeed122082"
+    "revision": "7bd99b7a2cf2d9e52e8e6a6662bdc646"
   },
   {
     "url": "2018/03/31/alien-landscape.html",
-    "revision": "196c433b35cc813f7d9e6293b915889d"
+    "revision": "7dcc9fca3ebbded83a7efd7577946260"
   },
   {
     "url": "2018/04/08/masterpiece.html",
-    "revision": "31c63392053296605f81bf2cd0bf7023"
+    "revision": "bfe833ff6fe55c541e4104b4eaf9658c"
   },
   {
     "url": "2018/04/08/scheveningen-lighthouse.html",
-    "revision": "14a87b749a459fed364a9d7338897a02"
+    "revision": "163a928f5c44140c1546c0f754b2819c"
   },
   {
     "url": "2018/04/09/gloomy-easter-islands.html",
-    "revision": "57f25be5fe5d56a77c675a33f0934ed2"
+    "revision": "ee5f9eb856dbcf36347f663e1568ba78"
   },
   {
     "url": "2018/04/15/papua-longhouse.html",
-    "revision": "0d029069ba350bebb63fc5f3bb7244b0"
+    "revision": "5de564089eff948b983ab871e5e461a0"
   },
   {
     "url": "2018/04/25/seagul.html",
-    "revision": "b09d4dd8d9ac7d9455b0622d3b7fdecb"
+    "revision": "e9cc2a654919f7c29b180c3b18e53998"
   },
   {
     "url": "2018/04/25/voorweg-by-night.html",
-    "revision": "10dc0990c136bfdc3ca99acd411ece6b"
+    "revision": "3412aab0b0f14d28967d97393c8a00da"
   },
   {
     "url": "about.html",
-    "revision": "895223ec3dc5731b78f2c4135fd325df"
+    "revision": "21fd737afd1bcc6672b4439c14058053"
   },
   {
     "url": "build/main.css",
-    "revision": "44f4539a78a782c369111fa324e0cd46"
+    "revision": "c56813d18a5dcf6f7721b8747cf4c5f6"
   },
   {
     "url": "build/main.js",
-    "revision": "b51f02ecde65fee4310e94087cc988f8"
+    "revision": "8cbcf781a28be5c25752e6e1126611ff"
   },
   {
     "url": "build/manifest.json",
     "revision": "7003b1c47500a81a93be10ccefbd6eae"
   },
   {
-    "url": "build/precache-manifest.9393fd8eb0986f92b5d95fbc07574520.js",
-    "revision": "9393fd8eb0986f92b5d95fbc07574520"
+    "url": "build/precache-manifest.234401ac118e419fa507ac134434b6af.js",
+    "revision": "234401ac118e419fa507ac134434b6af"
   },
   {
-    "url": "build/precache-manifest.a4f4b2c5b5ab19ec35d01255cb61e544.js",
-    "revision": "a4f4b2c5b5ab19ec35d01255cb61e544"
+    "url": "build/precache-manifest.40cd09b44cf79e4cf60d2746d8943fca.js",
+    "revision": "40cd09b44cf79e4cf60d2746d8943fca"
   },
   {
-    "url": "build/precache-manifest.aae385cac99818226557ab7d734b2acc.js",
-    "revision": "aae385cac99818226557ab7d734b2acc"
+    "url": "build/precache-manifest.682f53b0dbf9714cff77ba3cd51d4c17.js",
+    "revision": "682f53b0dbf9714cff77ba3cd51d4c17"
   },
   {
-    "url": "build/precache-manifest.b2ced0cca3b41588880246e813cba3de.js",
-    "revision": "b2ced0cca3b41588880246e813cba3de"
-  },
-  {
-    "url": "build/precache-manifest.e4ce7ab66786718f2b46a93e9c7679d3.js",
-    "revision": "e4ce7ab66786718f2b46a93e9c7679d3"
+    "url": "build/precache-manifest.ac21a34c0c6d678cceec19ec56369427.js",
+    "revision": "ac21a34c0c6d678cceec19ec56369427"
   },
   {
     "url": "icon/android-chrome-144x144.png",
@@ -284,56 +280,64 @@ self.__precacheManifest = [
     "revision": "83cd4978bcaee40d1e624899387f6254"
   },
   {
+    "url": "img/header.jpg",
+    "revision": "7f642a83ac0162fc1031451fac1cfda7"
+  },
+  {
     "url": "img/logo.png",
     "revision": "a04504eb6dddf0617b24c4875ecd55c5"
   },
   {
     "url": "img/painting/alien-landscape.jpg",
-    "revision": "cb160eb4650a67319f0093a4e5e7ab47"
+    "revision": "57f766e367982366de25a0786c1dbc4c"
   },
   {
     "url": "img/painting/already-did-my-cat.jpg",
-    "revision": "9ba0585649dfed1d5c0024ad0066c228"
+    "revision": "deeaba8a920ff2c511f923c1fab5b49f"
   },
   {
     "url": "img/painting/gloomy-easter-islands.jpg",
-    "revision": "db33096a7dae2725c7e2350524d7652c"
+    "revision": "f486daa92be1be75f8b86e8ccc7ba7ae"
   },
   {
     "url": "img/painting/het-was-weer-eens-tijd.jpg",
-    "revision": "afca85a7bc9d0c7ce19a7d7d36477f9c"
+    "revision": "6ca9cc78c91fd429e557d78188470136"
   },
   {
     "url": "img/painting/masterpiece.jpg",
-    "revision": "feb8b8cd4bffb54c574358f12a3ffec7"
+    "revision": "ad94df467b27ebad21a677153aa425e5"
   },
   {
     "url": "img/painting/papua-longhouse.jpg",
-    "revision": "7f13b3cbef1a6208e7e82470c5dccfec"
+    "revision": "6fe65341f755f475d05779cd88c8114a"
   },
   {
     "url": "img/painting/sammy-on-canvas.jpg",
-    "revision": "825a3e2e346df601b226f9a2bf796805"
+    "revision": "4254fd64f919e0d104f887553fe7ce69"
   },
   {
     "url": "img/painting/scheveningen-lighthouse.jpg",
-    "revision": "896359a96811d0905c41bb78a6543d30"
+    "revision": "1b5fcc874de3c0ec319fbe31b84c874d"
   },
   {
     "url": "img/painting/seagul.jpg",
-    "revision": "b8c4c9a468ee4561c2696232a0831daa"
+    "revision": "cff0b7de44bbfad57143127e70eab6d1"
+  },
+  {
+    "url": "img/painting/selfportrait.jpg",
+    "revision": "559ac7e31aee010f0095c92892776723"
   },
   {
     "url": "img/painting/voorweg-by-night.jpg",
-    "revision": "194c3ae44ed7bce0d93e38b31b4acc67"
+    "revision": "0fff362f06aa675f4a6931e21b4c54b8"
   },
   {
     "url": "index.html",
-    "revision": "44f2b24283a810d9376d3ac858e514d1"
+    "revision": "8a0f60cbe40fc5af89b04a4b6624bba9"
   },
   {
     "url": "service-worker.js",
-    "revision": "a14996af94543b9cf0cdf7cdfe6801e1"
+    "revision": "fcfa1f9a92ace3e2e660fefe8d7f6559"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
